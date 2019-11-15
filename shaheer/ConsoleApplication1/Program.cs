@@ -13,7 +13,8 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello World");
 
             Console.WriteLine("Updated By Shaheer");
-            Console.ReadLine();
+            Console.Write("Bella Ciao : ");
+            
         }
     }
 }

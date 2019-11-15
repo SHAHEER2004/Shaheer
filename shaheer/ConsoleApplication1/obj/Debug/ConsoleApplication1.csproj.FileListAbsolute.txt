@@ -7,3 +7,6 @@ c:\users\asp.aptechnk\documents\visual studio 2015\Projects\ConsoleApplication1\
 C:\Users\asp.APTECHNK\Desktop\shaheer\Shaheer\shaheer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\asp.APTECHNK\Desktop\shaheer\Shaheer\shaheer\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\asp.APTECHNK\Desktop\shaheer\Shaheer\shaheer\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\asif\Desktop\ShaheerPro\Shaheer\shaheer\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\asif\Desktop\ShaheerPro\Shaheer\shaheer\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\asif\Desktop\ShaheerPro\Shaheer\shaheer\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
